@@ -8,7 +8,5 @@ public class InstructorManager extends UserManager{
 		System.out.println("Course has been deleted");
 	}
 	
-	public void view() {
-		
-	}
+
 }
